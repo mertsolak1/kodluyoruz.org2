@@ -1,0 +1,16 @@
+body {
+    background-color:#DBE2EF;
+    font-family: 'Andada Pro', serif;
+}
+
+header {
+    font-family: 'Anton', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #6A2C70;
+}
+
+p {
+    color:#522546;
+}
